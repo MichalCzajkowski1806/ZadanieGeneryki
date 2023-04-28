@@ -1,0 +1,37 @@
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\bin\Debug\Zadanie B.exe.config
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\bin\Debug\Zadanie B.exe
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\bin\Debug\Zadanie B.pdb
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\bin\Debug\Generyki.dll
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\bin\Debug\Generyki.pdb
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.csproj.AssemblyReference.cache
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\MainWindow.g.cs
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\App.g.cs
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B_MarkupCompile.cache
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B_MarkupCompile.lref
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\MainWindow.baml
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.g.resources
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie_B.Properties.Resources.resources
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.csproj.GenerateResource.cache
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.csproj.CoreCompileInputs.cache
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.csproj.CopyComplete
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.exe
+D:\MC\C#\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\bin\Debug\Zadanie B.exe.config
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\bin\Debug\Zadanie B.exe
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\bin\Debug\Zadanie B.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\bin\Debug\Generyki.dll
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\bin\Debug\Generyki.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.csproj.AssemblyReference.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\MainWindow.g.cs
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\App.g.cs
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B_MarkupCompile.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B_MarkupCompile.lref
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\MainWindow.baml
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.g.resources
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie_B.Properties.Resources.resources
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.csproj.GenerateResource.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.csproj.CoreCompileInputs.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.csproj.CopyComplete
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.exe
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Zadanie B\obj\Debug\Zadanie B.csproj.SuggestedBindingRedirects.cache

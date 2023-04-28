@@ -1,0 +1,12 @@
+D:\MC\C#\Lab 5\Zadanie B\Generyki\bin\Debug\Generyki.dll
+D:\MC\C#\Lab 5\Zadanie B\Generyki\bin\Debug\Generyki.pdb
+D:\MC\C#\Lab 5\Zadanie B\Generyki\obj\Debug\Generyki.csproj.AssemblyReference.cache
+D:\MC\C#\Lab 5\Zadanie B\Generyki\obj\Debug\Generyki.csproj.CoreCompileInputs.cache
+D:\MC\C#\Lab 5\Zadanie B\Generyki\obj\Debug\Generyki.dll
+D:\MC\C#\Lab 5\Zadanie B\Generyki\obj\Debug\Generyki.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Generyki\bin\Debug\Generyki.dll
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Generyki\bin\Debug\Generyki.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Generyki\obj\Debug\Generyki.csproj.AssemblyReference.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Generyki\obj\Debug\Generyki.csproj.CoreCompileInputs.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Generyki\obj\Debug\Generyki.dll
+D:\Michał\Studia\Semestr IV\JWP\C# lab 5\Lab 5\Zadanie B\Generyki\obj\Debug\Generyki.pdb
